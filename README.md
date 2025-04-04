@@ -1,5 +1,3 @@
-### Updated `README.md` (With New Channel & Donation Plan) 🤖✨
-
 # Telegram AutoReply Bot 🤖✨
 
 Arre bhai log, swagat hai ekdum *filmy auto-reply tamasha* mein! Yeh hai **Telegram AutoReply Bot**, banaya hai tere tech ke baadshah ne – @Lets_CreateExplor_Tech ka mastermind! 😎 Yeh bot ek target message aur uske baad ke saare messages pe reply karta hai, aur naye messages pe bhi turant jawab deta hai – woh bhi Hindi aur English mein, HTML ke swag ke saath! 💪
